@@ -1,0 +1,61 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+form label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 6px;
+}
+
+.btn {
+    margin-top: 15px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.submit {
+    background: blue;
+    color: white;
+}
+
+.reset {
+    background: red;
+    color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 8px
+}
+
+.loop-box {
+    background: #eee;
+    padding: 10px;
+    margin-top: 10px;
+}

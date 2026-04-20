@@ -1,6 +1,6 @@
 # Hasil Codingan dari website forms register mahasiswa:
-<img width="1680" height="1050" alt="Tangkapan Layar 2026-04-11 pukul 00 05 01" src="https://github.com/user-attachments/assets/8a7506d6-6711-483c-985d-f0617166faf5" />
-<img width="1680" height="1050" alt="Tangkapan Layar 2026-04-11 pukul 00 04 53" src="https://github.com/user-attachments/assets/d882a4d9-2d1b-4eb2-a6e2-630441fabe6f" />
+<img width="1680" height="1050" alt="Tangkapan Layar 2026-04-20 pukul 22 26 40" src="https://github.com/user-attachments/assets/8690ff21-12db-49af-900e-8b7c7874aa22" />
+<img width="1680" height="1050" alt="Tangkapan Layar 2026-04-20 pukul 22 26 30" src="https://github.com/user-attachments/assets/440a58fb-91b7-4f8c-a0b0-c1c87a663516" />
 * Fitur didalam websitenya:
 - Menggunakan bahasa pemrograman HTML dengan gabungkan jsp.
 - Menggunakan CSS seperti margin, padding, border, dan backgroud.

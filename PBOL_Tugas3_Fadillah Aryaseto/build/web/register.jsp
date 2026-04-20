@@ -16,6 +16,12 @@
 
         <label>Nama:</label>
         <input type="text" name="nama" required>
+        
+        <label>Email:</label>
+        <input type="email" name="email" placeholder="fadillaharyaseto1401@gmail.com" required>
+        
+        <label>Nomor Telfon:</label>
+        <input type="tel" name="nohp" placeholder="085882787165" pattern="[0-9]{10,13}" required>
 
         <label>Program Studi:</label>
         <select name="prodi">

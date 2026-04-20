@@ -3,6 +3,8 @@
 <%
 String nim = request.getParameter("nim");
 String nama = request.getParameter("nama");
+String email = request.getParameter("email");
+String nohp = request.getParameter("nohp");
 String prodi = request.getParameter("prodi");
 String jk = request.getParameter("jk");
 String alamat = request.getParameter("alamat");
@@ -24,6 +26,8 @@ String[] hobi = request.getParameterValues("hobi");
     <table>
         <tr><td>NIM</td><td><%= nim %></td></tr>
         <tr><td>Nama</td><td><%= nama %></td></tr>
+        <tr><td>Email</td><td><%= email %></td></tr>
+        <tr><td>No HP</td><td><%= nohp %></td></tr>
         <tr><td>Prodi</td><td><%= prodi %></td></tr>
         <tr><td>Jenis Kelamin</td><td><%= jk %></td></tr>
         <tr><td>Alamat</td><td><%= alamat %></td></tr>
